@@ -1,8 +1,8 @@
 # HNG9_Task1
 
-A page like Linktree that allows a person show their personal profile and link to various digital things that they sell. Details below.
+## [View Task](https://yinkalinktree.netlify.app/)
 
-## [View Project](https://yinkalinktree.netlify.app/)
+A page like Linktree that allows a person show their personal profile and link to various digital things that they sell. Details below.
 
 ## The profile section
 
